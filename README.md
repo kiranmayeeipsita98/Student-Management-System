@@ -3,6 +3,7 @@
 The objective of a student management system using Python is to efficiently handle and organize student information. This includes tracking student records, managing grades, handling attendance, and generating reports. The system aims to simplify administrative tasks, improve data accuracy, and streamline communication between students, teachers, and administrators.
 
 a student management system using Python, key operations include:
+
 Addition of Data:
 Add New Students: Enter new student details (name, ID, grades) and store them in a database or file.
 Update Records: Modify existing student information as needed.
